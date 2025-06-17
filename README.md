@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Rabia!
 
-## 💡 Mission  
 Proving that product marketers with non-traditional roots punch above their weight.
 
 ## 👩‍💻 Snapshot  
