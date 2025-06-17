@@ -7,4 +7,6 @@
 - Toolbelt: GA4, Mixpanel, HubSpot, Retool, Python, Webflow, Figma, Zapier.
 - MBA (Business Analytics) in progress; certified in Data Analytics and Technical SEO.
 - Writing about GTM, AI workflows, and midnight experiments.
-- rabiaahmed.me • [LinkedIn](https://linkedin.com/in/rabia-ahmed-khan/)
+
+- Website: [rabiaahmed.me](rabiaahmed.me)
+- [LinkedIn](https://linkedin.com/in/rabia-ahmed-khan/)
